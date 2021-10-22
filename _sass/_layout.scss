@@ -1,10 +1,10 @@
 /**
  * Site header
  */
-/**
+
 body {
-    background-color: pink;
-}*/
+    background-color: $bg-color;
+}
 
  .wrapper .container {
     max-width: 80rem;
@@ -26,6 +26,12 @@ body {
 .post-nav {
     text-align: center;
     padding: 1rem;
+    border-top: 1px solid red;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-image: linear-gradient(97deg, rgba(255,173,173,1) 0%, rgba(255,214,165,1) 13%, rgba(253,255,182,1) 28%, rgba(202,255,191,1) 45%, rgba(155,246,255,1) 62%, rgba(160,196,255,1) 76%, rgba(175,187,255,1) 89%, rgba(255,198,255,1) 100%) 1 stretch;
+    
 }
 
 .post-title {
@@ -46,7 +52,11 @@ body {
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid red;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-image: linear-gradient(97deg, rgba(255,173,173,1) 0%, rgba(255,214,165,1) 13%, rgba(253,255,182,1) 28%, rgba(202,255,191,1) 45%, rgba(155,246,255,1) 62%, rgba(160,196,255,1) 76%, rgba(175,187,255,1) 89%, rgba(255,198,255,1) 100%) 1 stretch;
     margin: 2rem 0;
     padding: 2rem 0;
 }
@@ -63,9 +73,10 @@ body {
 .preview-panel {
     padding: 1rem;
     box-sizing: border-box;
-    border: 1px solid $color-initial;
+    border: 1px solid $bg-color;
     
     &:hover {
-        border: 1px solid $grey-color-light;
+        border: 1px solid red;
+        border-image: linear-gradient(97deg, rgba(255,173,173,1) 0%, rgba(255,214,165,1) 13%, rgba(253,255,182,1) 28%, rgba(202,255,191,1) 45%, rgba(155,246,255,1) 62%, rgba(160,196,255,1) 76%, rgba(175,187,255,1) 89%, rgba(255,198,255,1) 100%) 1 stretch;
     }
 }

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Talking Fridge"
-date:   2015-10-07 15:39:40
+date:   2019-09-04 15:39:40
 preview: /assets/img/projects/talking-fridge/talking_fridge_thumb.jpg
 ---
 

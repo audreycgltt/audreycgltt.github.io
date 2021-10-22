@@ -2,10 +2,8 @@
 layout: post
 title:  "Open Beer Voice Assistant"
 date:   2018-11-01 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: /assets/img/projects/open-beer-app/open-beer-thumb.png
 ---
-
-![Picture 1](holder.js/800x600?auto=yes)
 
 Vocal assistant skill powered by Snips about zythology ("beer culture").
 
