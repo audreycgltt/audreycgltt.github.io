@@ -4,6 +4,8 @@ title: about
 permalink: /about/
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+Passionate about computers and machines since my childhood, I started my path by doing a 2-year university diploma in Electrical Engineering and Industrial Computing followed by an engineering diploma.
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+Beyond doing computer stuff, I enjoy cooking, drawing comic strips, doing Crossfit, and recently, 3D modeling and printing.
+
+![Audrey scan](/assets/img/about/audrey-viewer.png)
