@@ -2,7 +2,7 @@
 layout: post
 title:  "Bucket Hat"
 date:   2021-05-21 15:39:40
-preview: /assets/img/concerned_froge.png
+preview: /assets/img/projects/bucket-hat/bucket_hat_thumb.jpg
 ---
 
 ![Picture 1](/assets/img/projets/bucket-hat/20210419_153619.jpg)

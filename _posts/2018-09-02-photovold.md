@@ -2,7 +2,7 @@
 layout: post
 title:  "PhotoVault - iOS app"
 date:   2018-09-02 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: /assets/img/projects/photovault/photovault_thumb.png
 ---
 
 ![Picture 1](holder.js/800x600?auto=yes)

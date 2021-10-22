@@ -2,7 +2,7 @@
 layout: post
 title:  "Companion bot"
 date:   2021-09-10 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: /assets/img/projects/companion-bot/bot_thumb.png
 ---
 
 ![Picture 1](holder.js/800x600?auto=yes)

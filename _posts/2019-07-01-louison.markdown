@@ -2,9 +2,9 @@
 layout: post
 title:  "Louison - GameJam"
 date:   2015-10-09 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: /assets/img/projects/louison/louison_thumb.png
 ---
-
+![Illustration game](/assets/img/projects/louison/louison_illust.png)
 ![Picture 1](/assets/img/projets/louison/I58pwh.png)
 
 As a teen addicted to video games, I had to learn one day how to create a one. So I enrolled myself in a game jam, started to learn C# and Unity and two weeks later I was part of a team trying to make my first game!

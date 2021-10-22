@@ -2,7 +2,7 @@
 layout: post
 title:  "Talking Fridge"
 date:   2015-10-07 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: /assets/img/projects/talking-fridge/talking_fridge_thumb.jpg
 ---
 
 ![Picture 1](holder.js/800x600?auto=yes)
