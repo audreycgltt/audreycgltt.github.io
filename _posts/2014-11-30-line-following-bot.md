@@ -6,4 +6,4 @@ preview: /assets/img/projects/line-following-robot/line-following-bot-thumb.png
 ---
 
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Made during my first semester of studies, the aim was to create a fully functional robot from (almost) scratch: prototyping, PCB Design, soldering, programming … The direction was made using IR sensors, all coded in C on a PIC18F microcontroller.

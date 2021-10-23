@@ -7,6 +7,8 @@ preview: /assets/img/projects/air-hockey/air_hockey_thumb.jpg
 
 ![Picture 1](/assets/img/projects/air-hockey/air_hockey_one.jpg)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Big air hockey table even bigger with 2 huge servo motors added and an HD camera positioned on top of it. The goal? Not to take any from the human player! The puck was tracked with the camera and the automaton should respond accordingly to the trajectory and the speed. 
+
+The automation was made using Ladder, Grafcet and Structured Text.
 
 ![Photo servo](/assets/img/projects/air-hockey/air_hockey_two.jpg)
