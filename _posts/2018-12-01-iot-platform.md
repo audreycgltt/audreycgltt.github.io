@@ -2,9 +2,10 @@
 layout: post
 title:  "IoT Platform"
 date:   2018-12-01 15:39:40
-preview: holder.js/300x300?auto=yes
+preview: /assets/img/projects/iot-platform/iot-platform-thum.png
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Showcase platform aimed to connect to different types of sensors (temperature, humidity, etc) and retrieve their values when needed.
+
+In the beginning, the platform was supposed to be controlled by a mobile app but I thought that voice control would be more fun. So, the voice application was powered by Snips on a raspberry pi, values requests and results were sent via MQTT using the raspi as the broker and some esp32 (programmed with Arduino IDE) publishing and subscribing to messages.

@@ -1,10 +1,13 @@
 ---
 layout: post
 title:  "Talking Fridge"
-date:   2015-10-07 15:39:40
+date:   2019-09-04 15:39:40
 preview: /assets/img/projects/talking-fridge/talking_fridge_thumb.jpg
 ---
 
-![Picture 1](holder.js/800x600?auto=yes)
+Showcased at the IFA 2019, the intention was to demonstrate the possibilities of Snips, this time with a GUI. 
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+We imagined a totally voice-controlled kitchen with appliances that could communicate together, possible actions included: fridge &
+refrigerator control, stove control, timers, shopping list, etc. 
+
+The GUI has been made using Crank Software, running on a central raspberry Pi with the vocal assistant.
