@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Louison - GameJam"
+date:   2019-07-01 15:39:40
+preview: /assets/img/projects/louison/louison_thumb.png
+---
+![Illustration game](/assets/img/projects/louison/louison_illust.png)
+![Picture 1](/assets/img/projects/louison/I58pwh.png)
+
+As a teen addicted to video games, I had to learn one day how to create a one. So I enrolled myself in a game jam, started to learn C# and Unity and two weeks later I was part of a team trying to make my first game!
+
+![Picture 2](/assets/img/projects/louison/0j1QRO.png)
+
+The result is Lousion, a dream exploration game available on itch.io.
+
+

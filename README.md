@@ -1,5 +1,3 @@
-# urban-theme
+# Personal portfolio
 
-This theme is a Jekyll port of http://erosie.net/ with some modifications. It is designed for visual artists.
-
-Live-Demo: https://narkotyk.netlify.app
+Here's my personal portfolio, made with the amazing urban-theme by .

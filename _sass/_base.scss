@@ -2,15 +2,29 @@
  * Icons
  */
 .icon {
-
+    margin-right: 10px;
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 24px;
+        height: 24px;
         vertical-align: middle;
 
         path {
             fill: $color-secondary;
+            pointer-events:all;
+        }
+    }
+}
+
+.icon:hover {
+    > svg {
+        display: inline-block;
+        width: 24px;
+        height: 24px;
+        vertical-align: middle;
+
+        path {
+            fill: url(#MyGradient);
         }
     }
 }

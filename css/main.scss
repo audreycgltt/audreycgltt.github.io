@@ -3,9 +3,11 @@
 ---
 @charset "utf-8";
 
-$grey-color:       #828282;
+$grey-color:       #ee32bf;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+$bg-color: #302e35;
+$cadre-color: #00a6ff;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
