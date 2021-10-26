@@ -3,6 +3,7 @@ layout: post
 title:  "Line Following Robot"
 date:   2014-11-30 15:39:40
 preview: /assets/img/projects/line-following-robot/line-following-bot-thumb.png
+tags: [C, PCB, electronics]
 ---
 
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Maki - robot"
 date:   2015-09-01 15:39:40
 preview: /assets/img/projects/maki/maki_thumb.png
+tags: [3D, LabVIEW, PCB, electronics]
 ---
 
 ![Picture 1](/assets/img/projects/maki/maki_photo_real.png)

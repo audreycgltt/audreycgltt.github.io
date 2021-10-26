@@ -3,6 +3,7 @@ layout: post
 title:  "IoT Platform"
 date:   2018-12-01 15:39:40
 preview: /assets/img/projects/iot-platform/iot-platform-thum.png
+tags: [Arduino, RaspberryPi, Python, C++, Voice]
 ---
 
 

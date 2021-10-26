@@ -3,6 +3,7 @@ layout: post
 title:  "PhotoVault - iOS app"
 date:   2018-09-02 15:39:40
 preview: /assets/img/projects/photovault/photovault_thumb.png
+tags: [iOS, Swift]
 ---
 
 

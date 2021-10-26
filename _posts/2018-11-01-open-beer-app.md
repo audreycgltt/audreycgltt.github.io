@@ -3,6 +3,7 @@ layout: post
 title:  "Open Beer Voice Assistant"
 date:   2018-11-01 15:39:40
 preview: /assets/img/projects/open-beer-app/open-beer-thumb.png
+tags: [RaspberryPi, Voice, Python, DB]
 ---
 
 Vocal assistant skill powered by Snips about zythology ("beer culture").
