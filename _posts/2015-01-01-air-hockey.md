@@ -3,6 +3,7 @@ layout: post
 title:  "Automated Air Hockey Table"
 date:   2015-01-01 15:39:40
 preview: /assets/img/projects/air-hockey/air_hockey_thumb.jpg
+tags: [Automation]
 ---
 
 ![Picture 1](/assets/img/projects/air-hockey/air_hockey_one.jpg)
