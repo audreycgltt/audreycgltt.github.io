@@ -7,8 +7,9 @@ tags: [Unity, C#, Game]
 ---
 ![Illustration game](/assets/img/projects/louison/louison_illust.png)
 
+As a teen addicted to video games, I had to learn one day how to create a one. So when La [développeuse du Dimanche](https://twitter.com/dev_dimanche), an independant video game maker making videos on YouTube, announced that she was organising its first game jam in august 2019, it was an evidence! 
 
-As a teen addicted to video games, I had to learn one day how to create a one. So I enrolled myself in a game jam, started to learn C# and Unity and two weeks later I was part of a team trying to make my first game!
+I enrolled myself, started to learn C# and Unity and two weeks later I was part of a team trying to make my first game!
 
 ![Picture 1](/assets/img/projects/louison/I58pwh.png)
 
