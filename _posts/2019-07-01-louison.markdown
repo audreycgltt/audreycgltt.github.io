@@ -13,7 +13,7 @@ I enrolled myself, started to learn C# and Unity and two weeks later I was part 
 
 ![Picture 1](/assets/img/projects/louison/I58pwh.png)
 
-The result is Lousion, a dream exploration game available on itch.io.
+The result is [Lousion](https://reddozer.itch.io/louison), a dream exploration game available on itch.io.
 
 ![Picture 2](/assets/img/projects/louison/0j1QRO.png)
 
