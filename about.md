@@ -15,7 +15,7 @@ permalink: /about/
 
 <div class="line"></div>
 
-<p>Do not hesitate to contact me directly by <a href="mailto:cigolottiaudrey@gmail.com" target="_blank">email</a> or using one of my social media linked below. Also, if you're interested, you can download my resume <a href="/assets/Resume_Audrey_Cigolotti.pdf" download>here</a>. </p>
+<p>Do not hesitate to contact me directly by <a href="mailto:cigolottiaudrey@gmail.com" target="_blank" rel="noopener noreferrer">email</a> or using one of my social media linked below. Also, if you're interested, you can download my resume <a href="/assets/Resume_Audrey_Cigolotti.pdf" download>here</a>. </p>
 </div>
 
 ![Audrey scan](/assets/img/about/audrey-viewer.png)
