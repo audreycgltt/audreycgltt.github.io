@@ -2,7 +2,7 @@
 title: Audrey Cigolotti.
 email: cigolottiaudrey@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi there! Welcome to my realm, where I showcase cherry-picked projects I work on over the years. 
+  Hi there! Welcome to my realm, where I showcase cherry-picked projects I worked on over the years. 
   I would, of course, love to talk about them (or some others) in further detail during a conversation! 
   Don't hesitate to contact me. Cheers!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -10,7 +10,7 @@ url: "https://mastoq.cool" # the base hostname & protocol for your site
 twitter_username: audreycgltt
 github_username:  audreycgltt
 linkedin_username: audreycgltt
-instagram_username: le_mastoq
+instagram_username: le_mastolab
 
 # Build settings
 markdown: kramdown
