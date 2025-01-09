@@ -17,3 +17,5 @@ The sound visualization effect was originally made using homemade FFT but I swit
 I sew a black "steath" around LEDs for them to be unoticeable when the hat is off. 
 
 ![Protobucket](/assets/img/projects/bucket-hat/Screenshot_20211022-182326_Video_Player.jpg)
+
+You can find the full detailled project on Instructables, [just here](https://www.instructables.com/Sound-Reactive-LEDs-Bucket-Hat/)!
