@@ -6,7 +6,6 @@ preview: /assets/img/projects/following-face/following-face-thumb.png
 tags: [C++, Arduino, RaspberryPi, LEDs]
 ---
 
-
 The goal was to create a camera that would be able to follow a face with a simple GUI in order to learn to use OpenCV and Qt using C++.
 
 ![gui screenshot](/assets/img/projects/following-face/gui-screenshot.png)

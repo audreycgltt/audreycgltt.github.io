@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "Kinetic Feather jacket"
+title:  "Kinetic Feathers jacket"
 date:   2024-04-19 15:39:40
-preview: /assets/img/projects/companion-bot/bot_thumb.png
+preview: /assets/img/projects/kinetic-feather-jacket/kinetic_jacket_thumb.jpg
 tags: [Arduino, wearable]
 ---
+
+![Final](/assets/img/projects/kinetic-feather-jacket/final-feather.gif)
 
 > Girl, I have a MET Gala theme party, could you do something?
 
@@ -23,3 +25,20 @@ I kept wondering about what could I do for weeks until the idea came while watch
 
 Now, imagine the same spirit on a suit jacket (the event took place in April) but with oscillating feathers? Perfection.
 
+
+### First prototype
+
+![Protoype](/assets/img/projects/kinetic-feather-jacket/prototype-plumes.gif)
+
+### 3D print
+
+CAD was made with Plasticity, wonderful CAD software made for artists. Decided to print on tule so I would just have to sew on top on the jacket to make it hold together. 
+
+![Tule print](/assets/img/projects/kinetic-feather-jacket/tule-print.gif)
+![Cat vs feathers](/assets/img/projects/kinetic-feather-jacket/cat-vs.gif)
+
+### Bonus
+
+My friend gave me back the jacket, so I had to wear it. It was perfect for my chicken trainer costume. 
+
+![Chicken trainer costume](/assets/img/projects/kinetic-feather-jacket/chicken_trainer.png)
